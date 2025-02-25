@@ -12,4 +12,4 @@ def third(name:str,age:int):
     age = 15
     print(f"Name: {name} Age: {age}")
 
-res = third(15)
+res = third("Kashan",15)
