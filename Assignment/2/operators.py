@@ -127,6 +127,7 @@ print("In: ", 'banana' in fruits)   # Output: True
 # Not In
 print("Not In: ", 'grape' not in fruits)   # Output: True
 
+
 # Bitwise Operators
 #These operators are used for binary operations.
 
