@@ -1,0 +1,15 @@
+{
+    "Kashan Malik": {
+        "password_hash": "M5ZRvWmYjt3hgleWdh2RIddE/jQB3w8EQlq586hzDpM=",
+        "salt": "2bvvqq/jRnjCsu+OjVBJ8w==",
+        "failed_attempts": 3,
+        "last_failed_attempt": "2025-05-27T23:09:07.406637"
+    },
+    "Self-help": {
+        "password_hash": "aDlZG06as0moISpcwDt+DhVts/zmJXabjQSTEvfm83Q=",
+        "salt": "j/czULFlrK2rfEcNY25nRw==",
+        "failed_attempts": 0,
+        "last_failed_attempt": null,
+        "last_failed_attempt_iso": null
+    }
+}
